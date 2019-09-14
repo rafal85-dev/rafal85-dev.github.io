@@ -1,4 +1,4 @@
-# Rafal projects page
+# Rafal's projects page
 
 My sample projects
 
