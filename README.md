@@ -19,4 +19,5 @@ Software engineer
 
 Country: Poland
 
+Contact: rafal85 ~ protonmail.com
 
